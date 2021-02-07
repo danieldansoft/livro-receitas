@@ -5,9 +5,5 @@
 **Daniel DanSoft 2021**:computer:
 
 - *Strogonoff de Frango*
-
 - *Pavê*
-
-  
-  
-  
+- Bolo de Cenoura
