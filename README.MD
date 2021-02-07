@@ -2,8 +2,12 @@
 
 **Olá bem vindo ao meu livro de Receitas** :cherries:
 
-- *Strogonoff de Frango*
-- xxxxxxxxxxx
-- yyyyyyyyy
-- zzzzzzzzz
+**Daniel DanSoft 2021**:computer:
 
+- *Strogonoff de Frango*
+
+- *Pavê*
+
+  
+  
+  
