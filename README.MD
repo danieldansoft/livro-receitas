@@ -7,3 +7,4 @@
 - *Strogonoff de Frango*
 - *Pavê*
 - Bolo de Cenoura
+- Almondegas
